@@ -46,7 +46,7 @@
     "@types/node": "^18",
     "@types/pg": ">=6 <9",
     "chalk": "^4",
-    "chokidar": "^3.5.3",
+    "chokidar": "^3.6.0",
     "json5": "^2.2.3",
     "pg": ">=6.5 <9",
     "pg-connection-string": "^2.6.2",
